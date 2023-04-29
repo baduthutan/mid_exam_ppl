@@ -1,0 +1,17 @@
+
+{
+    "data": [
+        {
+            "Nama" : "Gusti",
+            "Nim" : "1234",
+            "Alamat" : "Malang"
+        },
+        {
+            "Nama" : "Pangestu",
+            "Nim" : "321",
+            "Alamat" : "Kabupaten Malang"
+        }
+    ]
+}
+
+
